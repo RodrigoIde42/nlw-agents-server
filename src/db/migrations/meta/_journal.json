@@ -15,6 +15,13 @@
       "when": 1752075041483,
       "tag": "0001_new_red_hulk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752193679306,
+      "tag": "0002_quick_retro_girl",
+      "breakpoints": true
     }
   ]
 }
